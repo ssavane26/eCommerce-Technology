@@ -4,9 +4,8 @@
 ## User Story
 
 ```md
-AS AN aspiring backend engineer
-I WANT to work for a small e-commerce website 
-SO THAT I can fully grasp CRUD operators of database applications
+A manager at an internet retail company
+wants a back end their e-commerce website that uses the latest technologies
 ```
 # Technologies Used
 - MySql 
