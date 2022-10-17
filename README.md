@@ -18,11 +18,11 @@ SO THAT I can fully grasp CRUD operators of database applications
 
 
 ## Screenshot
-<img src="">
+<img src="Assets\2022-10-17.png">
 
 
 ## Video Demo
-{PLACEHOLDER}
+
 
 
 ## GitHub
