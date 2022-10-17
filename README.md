@@ -5,7 +5,9 @@
 
 ```md
 A manager at an internet retail company
-wants a back end their e-commerce website that uses the latest technologies
+wants a back end their e-commerce website that uses the latest technologies. 
+
+My task as a software engineer is to build the back end for this e-commerce site. Using Express.js API and configuring it to use Sequelize to interact with a MySQL database.
 ```
 # Technologies Used
 - MySql 
